@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aOmQYvzIqFg2B7FuPJhi7MhgqpZLZXkTIH+pFlYMmb10JlfhOGzCPZSN54H5EXv7q8sNt8C+zqsOCDamzIK3Lg==",
+  "dgSpecHash": "lqum1Hz+EbyW6F/D/cRLeEChP6wb4C1+9+Ubl28ei3Gb7DDsdsgobA9Rlpfut+INTsnGY9RJorALLfZDBB36XQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\maria\\Desktop\\Coding Projects\\CodeLouisvilleDemo\\DemoApp\\DemoApp\\DemoApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
